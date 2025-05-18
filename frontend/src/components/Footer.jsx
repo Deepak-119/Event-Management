@@ -14,7 +14,8 @@ const Footer = () => {
             <input type="text" placeholder="E-mail" />
             <button>Sign Up</button>
           </div>
-          <p>Sign up with your email address to receice news and updates!</p>
+          <p>Sign up with your email address to receive news and updates!</p>
+          <p>© {new Date().getFullYear()} Designed and Developed by Deepak Kumar</p>
         </div>
       </div>
     </footer>
